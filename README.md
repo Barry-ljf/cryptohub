@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="heading.png" alt="Header">
-</p>
-
 # Crypto Library In Primihub
 -------
 
