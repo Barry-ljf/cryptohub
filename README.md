@@ -1,9 +1,9 @@
-# Crypto Library In Primihub
+# Crypto Library
 -------
 
 This repository offers several practical instance of **Multi-Party Computation (MPC)** techniques available for use, including Privacy-Preserving Set Intersection (PSI, PCSI), Distributed SM2 Signatures, and more.
 
-We have developed numerous MPC techniques, which will serve as the cryptographic foundation for building more privacy-preserving applications on **Primihub** in the future. This repository will integrate more SOTA cryptographic algorithms and will be fully open-source .
+We have developed numerous MPC techniques, which will be the cryptographic foundation for building more privacy-preserving applications in the future. This repository will integrate more SOTA cryptographic algorithms and will be fully open-source .
 
 ## Overview
 -------
