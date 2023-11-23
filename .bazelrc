@@ -1,0 +1,13 @@
+# Linux
+build:linux --cxxopt=-std=c++17
+build:linux --host_cxxopt=-std=c++17
+build:linux --copt=-w
+build:linux --copt=-DENABLE_SSE
+build:linux --linkopt=-lstdc++fs
+build:linux --copt=-maes
+build:linux --copt=-msse2
+build:linux --copt=-mavx2
+build:linux --copt=-msse3
+build:linux --copt=-msse4.1
+build:linux --copt=-mpclmul
+build:linux --define cpu_arch=x86_64

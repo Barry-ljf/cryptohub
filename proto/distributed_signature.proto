@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package DistributedSignature;
+
+message SM2_P_part_msg {
+  bytes str_p_part = 1;
+}
+
+message SM2_PublicKey_msg {
+  bytes str_publickey = 1;
+}
+
+message SM2_e_Q1_msg {
+  bytes str_e = 1;
+  bytes str_q1 = 2;
+}
+
+message SM2_r_s2_s3_msg {
+  bytes str_r = 1;
+  bytes str_s2 = 2;
+  bytes str_s3 = 3;
+} 
